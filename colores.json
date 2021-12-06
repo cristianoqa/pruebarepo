@@ -23,9 +23,6 @@
             "nombreColor":"amarillo",
             "valorHexadec":"#ff0"
         },
-        {
-            "nombreColor":"negro",
-            "valorHexadec":"#000"
-        }
+      
     ]
 }
